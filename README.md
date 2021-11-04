@@ -1,5 +1,7 @@
 # Dungeon Crawl (sprint 2)
 
+![dungeon_crawl](dungeon_crawl.png "Dungeon Crawl")
+
 ## Story
 
 Last week you created a pretty good [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game. It already has some features but the players have no opportunity to save their games. It can be annoying especially when you have to leave the game aside suddenly.
@@ -15,6 +17,7 @@ The management is handing out a **prioritized list** of new user stories that sh
 > Using database for saving game state feature is a business critical item which overrides every other priority now!
 
 Let's continue this entertaining project, and make our players happier!
+
 
 ## What are you going to learn?
 
